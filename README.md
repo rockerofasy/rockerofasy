@@ -5,12 +5,19 @@
 
 
  🔭 I’m currently working on nodeJS, ReactJs and JavaScript 
+ 
  🌱 I’m currently learning ReactJs.
+ 
  👯 I’m looking to collaborate on MERN STACK
+ 
  🤔 I’m looking for help with ADVANCE REACT HOOKS
+ 
  💬 Ask me about NODE JS and JAVASCRIPT AND CHATBOTS
+ 
  📫 How to reach me: exam.portal.asy@gmail.com - phone--> 9984746267
+ 
  😄 Pronouns: overchatak
+ 
  ⚡ Fun fact: This is my current company github profile
 
  
